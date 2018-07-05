@@ -16,10 +16,4 @@ public class StringCalculatorTest {
 	{
 		StringCalculator.add("1,2,3");
 	}
-	
-	public void add()
-	{
-		
-	}
-
 }
