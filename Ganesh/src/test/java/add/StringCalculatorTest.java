@@ -15,6 +15,7 @@ public class StringCalculatorTest {
 	public void testIsNumberLengthGreaterThanTwo()
 	{
 		StringCalculator.add("1,2,3");
+		System.out.println("hiasdf");
 	}
 
 }
